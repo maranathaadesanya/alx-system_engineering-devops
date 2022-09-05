@@ -10,4 +10,5 @@ Write into 'ls_cwd_content' the result of 'ls -la'
 Duplicating the last line of iacta
 Deleting .js files
 Counting directories
-Displaying newest files 
+Displaying newest files
+Being unique 
