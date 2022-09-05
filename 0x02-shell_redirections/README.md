@@ -14,6 +14,7 @@ Displaying newest files
 Being unique
 Finding lines containing the word 'root'
 Counting the number of lines containing 'bin' in '/etc/passwd'
+Displaying lines containing the pattern "root" and 3 lines after then in the file '/etc/passwd'
 Displaying lines that do not contain 'bin'
 Displaying all the lines of the file '/etc/ssh/sshd_config'
 Replacing A and c with Z and e
