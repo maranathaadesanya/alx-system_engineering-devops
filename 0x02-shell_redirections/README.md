@@ -23,3 +23,4 @@ Reversing inputs
 Displaying users and homes 
 Finding empty files
 List all files with a .gif extention in the current directory
+Acrostic!
