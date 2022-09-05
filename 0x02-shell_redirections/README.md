@@ -8,4 +8,5 @@ Displaying the third line of 'iacta'
 Creating a good file that cuts iron without making a noise
 Write into 'ls_cwd_content' the result of 'ls -la'
 Duplicating the last line of iacta
-Deleting .js files 
+Deleting .js files
+Counting directories 
