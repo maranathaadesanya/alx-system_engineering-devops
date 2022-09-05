@@ -12,4 +12,5 @@ Deleting .js files
 Counting directories
 Displaying newest files
 Being unique
-Finding lines containing the word 'root' 
+Finding lines containing the word 'root'
+Counting the number of lines containing 'bin' in '/etc/passwd' 
