@@ -6,4 +6,5 @@ Displaying the last 10 lines of '/etc/passwd'
 Displaying the first 10 lines of '/etc/passwd'
 Displaying the third line of 'iacta'
 Creating a good file that cuts iron without making a noise
-Write into 'ls_cwd_content' the result of 'ls -la' 
+Write into 'ls_cwd_content' the result of 'ls -la'
+Duplicating the last line of iacta 
