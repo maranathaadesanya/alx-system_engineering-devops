@@ -14,6 +14,7 @@ Displaying newest files
 Being unique
 Finding lines containing the word 'root'
 Counting the number of lines containing 'bin' in '/etc/passwd'
+Replacing A and c with Z and e
 Removing all letter c and C from input
 Reversing inputs
 Displaying users and homes 
