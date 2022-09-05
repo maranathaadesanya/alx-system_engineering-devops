@@ -11,4 +11,5 @@ Duplicating the last line of iacta
 Deleting .js files
 Counting directories
 Displaying newest files
-Being unique 
+Being unique
+Finding lines containing the word 'root' 
