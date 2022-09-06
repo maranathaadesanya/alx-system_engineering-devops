@@ -6,3 +6,4 @@ Global viables
 Listing all variables
 Creating BEST
 Global variable
+Addition to TRUEKNOWLEDGE
