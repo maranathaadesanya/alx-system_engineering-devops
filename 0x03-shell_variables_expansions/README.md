@@ -14,3 +14,5 @@ Combinations
 Decimals
 Decimal to Hexadecimal
 Encryption!
+Every other line 
+Adding two numbers stored in the environment variables and printing the result.
