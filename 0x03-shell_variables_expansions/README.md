@@ -12,3 +12,4 @@ Breath to the power of love
 Base 2 to Base 10
 Combinations
 Decimals
+Decimal to Hexadecimal
