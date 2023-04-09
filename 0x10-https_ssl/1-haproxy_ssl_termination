@@ -33,6 +33,11 @@ defaults
 	errorfile 503 /etc/haproxy/errors/503.http
 	errorfile 504 /etc/haproxy/errors/504.http
 
+frontend miastaste.tech-http-frontend
+	bind	 *:80
+	http-request set-header X-Forwarded-Proto http
+	default_backend	 miastaste.tech-backend
+
 frontend www-https
     bind *:443 ssl crt /etc/letsencrypt/live/www.miastaste.tech/fullchain.pem
     mode http
@@ -44,7 +49,7 @@ frontend www-https
 backend www-backend
     mode http
     option forwardfor
-    http-request set-header X-Forwarded-Port %[dst_port]
+    http-request set-header X-Forwarded-Port http
     http-request add-header X-Forwarded-Proto https if { ssl_fc }
     server 150402-web-01 54.89.49.229:80 check
     server 150402-web-02 100.25.143.172:80 check
